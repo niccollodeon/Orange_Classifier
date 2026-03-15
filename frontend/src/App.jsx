@@ -1,7 +1,7 @@
 import { useState, useCallback, useRef } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://orange-classifier-1.onrender.com";
 
 function ConfidenceBar({ value, isOrange }) {
   return (
