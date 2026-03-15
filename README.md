@@ -2,7 +2,7 @@
 
 A full-stack web application that uses a fine-tuned EfficientNetB0 model to classify whether an image contains an orange or not. Upload any image and get an instant prediction with a confidence score.
 
-**Live demo:** [your-app.vercel.app](https://orange-classifier-fbyd.vercel.app/) · **API:** [your-api.railway.app](https://orangeclassifier-production.up.railway.app)
+**Live demo:** [OrangeID - CNN Citrus Classifier](https://orange-classifier-fbyd.vercel.app/) · **API:** [Railway](https://orangeclassifier-production.up.railway.app)
 
 ---
 
